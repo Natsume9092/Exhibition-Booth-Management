@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://ibb.co/YFZ38R6M)
+![Banner](https://freeimage.host/i/CBiOwHN)
 
 # 🏢 Exhibition Booth Management System
 
