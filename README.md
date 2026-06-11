@@ -1,19 +1,16 @@
-&lt;p align="center"&gt;
-  &lt;img src="https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Exhibition+Booth+Management+System" alt="Banner" width="800"/&gt;
-&lt;/p&gt;
+<div align="center">
 
-&lt;h1 align="center"&gt;🏢 Exhibition Booth Management System&lt;/h1&gt;
+![Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Exhibition+Booth+Management+System)
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Flutter-3.0+-blue?logo=flutter"/&gt;
-  &lt;img src="https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart"/&gt;
-  &lt;img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green"/&gt;
-&lt;/p&gt;
+# 🏢 Exhibition Booth Management System
 
-&lt;p align="center"&gt;
-  A comprehensive Flutter application for managing exhibition booths, 
-  built with modern UI/UX principles.
-&lt;/p&gt;
+![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)
+
+*A comprehensive Flutter application for managing exhibition booths, built with modern UI/UX principles.*
+
+</div>
 
 ---
 
@@ -59,5 +56,3 @@
 | 6 | Run the app | `flutter run` |
 
 ---
-
-## 🏗️ Project Structure
