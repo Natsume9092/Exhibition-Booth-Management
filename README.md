@@ -2,7 +2,7 @@
 
 ![Banner](./images/banner.jpg)
 
-# 🏢 Exhibition Booth Management System
+# 🏢 Exhibition Booth Management App
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
