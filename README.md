@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://freeimage.host/i/CBiOwHN)
+![Banner](./images/banner.jpg)
 
 # 🏢 Exhibition Booth Management System
 
