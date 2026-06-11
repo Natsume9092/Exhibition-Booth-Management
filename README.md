@@ -18,8 +18,6 @@
 - [Features](#-features)
 - [Screenshots](#-screenshots)
 - [How to Run](#-how-to-run)
-- [Project Structure](#-project-structure)
-- [License](#-license)
 
 ---
 
