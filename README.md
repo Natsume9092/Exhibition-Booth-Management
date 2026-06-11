@@ -31,7 +31,11 @@
 ---
 
 ## 📸 Screenshots
-*(Add your app screenshots here)*
+<div align="center">
+
+![Banner](./images/app.png)
+
+</div>
 
 ---
 
