@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Exhibition+Booth+Management+System)
+![Banner](https://ibb.co/YFZ38R6M)
 
 # 🏢 Exhibition Booth Management System
 
