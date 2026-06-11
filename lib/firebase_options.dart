@@ -53,9 +53,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDv1gHwpTvbY-EXbT16aOTgKxpN9zrLBf0',
-    appId: '1:838260598533:android:f4e98123f552e63678396c',
-    messagingSenderId: '838260598533',
+    apiKey: 'Your key',
+    appId: 'Your App ID',
+    messagingSenderId: 'Your id',
     projectId: 'exhibition-booth-managem-5a13a',
     storageBucket: 'exhibition-booth-managem-5a13a.firebasestorage.app',
   );
